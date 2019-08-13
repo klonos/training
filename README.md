@@ -1,4 +1,4 @@
 # training
-Training for Steve
+Training with Steve
 
 I like it
